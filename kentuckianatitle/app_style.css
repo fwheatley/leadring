@@ -1,0 +1,147 @@
+	body{	font-family: Arial, sans-serif;
+		font-size: 9pt;
+		padding: 0;
+		margin: 0; }
+
+	table{ border-collapse: collapse;
+		width: 100%;
+		margin: 0;
+		padding: 0; }
+	table td{ font-size: 10pt; }
+	table.classic{ border-collapse: collapse;
+		border: 1px #ccc solid;
+		border-width: 0 2px 2px 0;
+		font-size: 10pt;
+		margin: 0; }
+
+	table tr.header{ background-color: #ccc;
+		text-transform: uppercase;
+		text-align: left; }
+	table tr.header td{ padding: 3px 5px 0 0;
+		font-size: 9pt;
+		font-weight: bold; }
+ 
+	table.classic td{ border: 1px #ccc solid;
+		border-width: 2px 0 0 2px;
+		padding: 1px 8px;
+		font-size: 10pt; }
+	table.classic label{ font-size: 7pt;
+		color: #444;
+		float: left;
+		display: block;
+		margin: 0px 0 0  -2px;
+		z-index: -1; }
+	
+	p#company{ font-weight: bold;
+		font-size: 12pt; }
+	p#company span{ font-family: serif;
+		font-weight: bold;
+		font-variant: small-caps;
+		display: block;
+		margin-bottom: 5px; }
+	p#address{ font-size: 9pt; }
+	p#checks{ float: right;
+		font-style: italic;
+		font-weight: bold;
+		font-size: 8pt; }
+
+	img#logo{ float: right;
+		width: 219px; 
+		height: 100px;" }
+
+	table td.add{ font-size: 8pt;
+		padding: 2px 8px; }
+	table td.add label{ font-size: 8pt;
+		color: #000;
+		margin: 0 !important;
+		float: none !important;
+		display: inline !important; }
+	table td.add label img{ vertical-align: text-bottom; }
+	table td.span strong{ font-size: 8pt;
+		width: 200px;
+		display: -moz-inline-box;
+		display: inline-block;
+		clear: left; }
+	table td.span strong span{ font-weight: normal; }
+	table td.span{ border: 1px #ccc solid;
+		border-width: 0 1px; }
+
+	p{ margin: 5px 8px; text-align:justify;}
+
+	label.hanging{ text-indent: -20px;
+		margin-left: 25px;
+		float: none;
+		display: block;
+		padding: 0; }
+
+	span.blank{ border-bottom: 1px #000 solid;
+		width: 335px;
+		position: relative; }
+	span.blank label{ position: absolute;
+		top: 15px;
+		font-size: 8pt;
+		font-style: italic; }
+
+
+	div.header{ width: 760px; }
+	div.header span.right{ float: right; }
+	
+	h2{ text-align: center;
+		font-size: 11pt;
+ 		width: 760px; }
+
+	table.grid{ border-left: 1px #ccc solid; }
+	table.grid td{ border-right: 1px #ccc solid;
+		border-bottom: 1px #ccc solid;
+		height: 35px; }
+	table.grid td label{ font-size: 7pt;
+		position: relative;
+		top: -4px;
+		left: 3px;
+		display: block;
+		padding-right: 20px; }
+		
+	h4 {
+		text-transform:uppercase;
+		font-size:12pt;
+		font-weight:bold;
+
+	}
+	
+	h5.left {
+		font-weight:bold;
+		margin-top:8px;
+		margin-bottom:8px;
+		text-align:left;
+	}
+	
+	div.checkbox_indent {
+	width:50px;
+	text-align:left;
+	float:left;
+	text-align:justify;
+	}
+	div.checkbox_para {
+	width:700px;
+	float:left;
+	font-size:11pt;
+	}
+	div.checkbox_para p {
+	margin-left:0px;
+	text-align:justify;
+	}
+	div.checkbox_para ul {
+	margin-top:0px;
+	}
+	div.checkbox_para li {
+	margin-top:3px;
+	text-align:justify;
+	}
+	div.checkbox_para h5 {
+	width:700px;
+	font-size:12pt;
+	}
+	div.checkbox_indent img {
+	margin-top:5px;
+	margin-left:15px;
+	}

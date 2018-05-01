@@ -1,0 +1,41 @@
+<tiltviewergallery>
+	<photos>
+		<photo imageurl="imgs/IMG_01.jpg" linkurl="http://www.google.com">
+			<title>Image 1</title>
+			<description>This is a regular text description.</description>
+		</photo>
+		<photo imageurl="imgs/IMG_02.jpg">
+			<title>Frank</title>
+			<description><![CDATA[This is a HTML text description. Supported tags are <b>bold</b>, <u>underline</u>, <i>italics</i>, linebreaks<br>and <font color="#ff0000" size="60">font tags</font>. Hyperlinks are not supported.]]></description>
+		</photo>
+		<photo imageurl="imgs/IMG_03.jpg">
+			<title>Library</title>
+			<description>Please flush.</description>
+		</photo>
+		<photo imageurl="imgs/IMG_04.jpg">
+			<title>Wheatley</title>
+			<description>This image has no flip button because the 'showFlipButton' property was added to the photo tag</description>
+		</photo>
+		<photo imageurl="imgs/IMG_05.jpg">
+			<title>Image 5</title>
+		</photo>
+		<photo imageurl="imgs/IMG_06.jpg">
+			<title>Image 6</title>
+		</photo>
+		<photo imageurl="imgs/IMG_07.jpg">
+			<title>Image 7</title>
+		</photo>
+		<photo imageurl="imgs/IMG_08.jpg">
+			<title>Image 8</title>
+		</photo>
+		<photo imageurl="imgs/IMG_09.jpg">
+			<title>Image 9</title>
+		</photo>
+		<photo imageurl="imgs/IMG_10.jpg">
+			<title>Image 10</title>
+		</photo>
+		<photo imageurl="imgs/IMG_11.jpg">
+			<title>Image 11</title>
+		</photo>
+	</photos>
+</tiltviewergallery>

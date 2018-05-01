@@ -1,0 +1,18 @@
+body{font-family:Arial;padding-left:50px;}
+.formElement{
+	clear:both;
+	padding:5px;
+}
+.formElement label{
+	width:150px;
+	display:block;
+	float:left;
+	text-align:right;
+	margin-right:5px;
+	font-weight:bold;
+}
+
+.error{
+	font-weight:bold;
+	color:red;
+}
